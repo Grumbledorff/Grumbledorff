@@ -19,7 +19,7 @@ Through Zeroth Squad, I engage in CTF competitions, honing my skills and collabo
 
   </td>
   <td style="width: 40%; text-align: center; vertical-align: top;">
-    <img src="https://tenor.com/b1AUM.gif" alt="Hacking GIF" width="300"/>
+    <div class="tenor-gif-embed" data-postid="27510554" data-share-method="host" data-aspect-ratio="0.71875" data-width="100%"><a href="https://tenor.com/view/dedsec-watch-dogs2-hacker-gif-27510554">Dedsec Watch Dogs2 GIF</a>from <a href="https://tenor.com/search/dedsec-gifs">Dedsec GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   </td>
   </tr>
 </table>

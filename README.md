@@ -19,7 +19,7 @@ Through Zeroth Squad, I engage in CTF competitions, honing my skills and collabo
 
   </td>
   <td style="width: 40%; text-align: center; vertical-align: top;">
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Hacking GIF" width="300"/>
+    <img src="https://media1.tenor.com/m/jU_d30QfCT8AAAAd/dedsec-watch-dogs2.gif" alt="Hacking GIF" width="300"/>
   </td>
   </tr>
 </table>

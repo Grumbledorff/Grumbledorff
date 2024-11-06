@@ -46,7 +46,3 @@ Through Zeroth Squad, I engage in CTF competitions, honing my skills and collabo
     </td>
   </tr>
 </table>
----
-[![](https://visitcount.itsvg.in/api?id=Grumbledorff&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,34 +1,32 @@
-# 👋 About Me:
+<table>
+  <tr>
+    <td style="width: 60%; vertical-align: top;">
 
-<div style="display: flex; align-items: center;">
-
-<div style="flex: 1;">
-
-# 👋 About Me
+### 👋 About Me
 
 Hello! I'm **Manoj Prabhakaran**, a **Cyber Security Manager** dedicated to protecting digital spaces. I’m the founder of **Underwings Technology**, a cybersecurity firm focused on safeguarding businesses, and **Zeroth Squad**, a Capture the Flag (CTF) team committed to advancing cybersecurity skills through competition.
 
 ---
 
-### 🔐 Cybersecurity Professional & Manager  
+#### 🔐 Cybersecurity Professional & Manager  
 As a Cyber Security Manager, I specialize in security strategy, risk management, and incident response, leading teams to implement strong defenses across complex systems.
 
-### 🚀 Founder @ Underwings Technology  
+#### 🚀 Founder @ Underwings Technology  
 At Underwings, we deliver tailored cybersecurity solutions, including penetration testing, security audits, and risk assessments, helping businesses stay resilient against emerging threats.
 
-### 🕹️ CTF Player & Zeroth Squad Founder  
+#### 🕹️ CTF Player & Zeroth Squad Founder  
 Through Zeroth Squad, I engage in CTF competitions, honing my skills and collaborating with the cybersecurity community.
 
-### 🎯 Goal  
+#### 🎯 Goal  
 My mission is to create a safer digital world while continuously learning and connecting with others passionate about cybersecurity.
 
-</div>
-
-<div style="flex: 1; padding-left: 20px;">
+  </td>
+  <td style="width: 40%; text-align: center; vertical-align: top;">
     <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Hacking GIF" width="300"/>
-</div>
+  </td>
+  </tr>
+</table>
 
-</div>
 
 
 

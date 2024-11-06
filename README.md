@@ -17,12 +17,9 @@ At Underwings, we deliver tailored cybersecurity solutions, including penetratio
 #### 🕹️ CTF Player & Zeroth Squad Founder  
 Through Zeroth Squad, I engage in CTF competitions, honing my skills and collaborating with the cybersecurity community.
 
-#### 🎯 Goal  
-My mission is to create a safer digital world while continuously learning and connecting with others passionate about cybersecurity.
-
   </td>
   <td style="width: 40%; text-align: center; vertical-align: top;">
-    <img src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw](https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47df1c6psrtoz8171urz405xyy28qasceok50u65tg&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Hacking GIF" width="300"/>
+    <img src="https://tenor.com/b1AUM.gif" alt="Hacking GIF" width="300"/>
   </td>
   </tr>
 </table>

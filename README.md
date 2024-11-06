@@ -22,7 +22,7 @@ My mission is to create a safer digital world while continuously learning and co
 
   </td>
   <td style="width: 40%; text-align: center; vertical-align: top;">
-    <img src="[https://giphy.com/embed/f3iwJFOVOwuy7K6FFw](https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47df1c6psrtoz8171urz405xyy28qasceok50u65tg&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="Hacking GIF" width="300"/>
+    <img src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw](https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47df1c6psrtoz8171urz405xyy28qasceok50u65tg&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Hacking GIF" width="300"/>
   </td>
   </tr>
 </table>

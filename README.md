@@ -1,5 +1,17 @@
 # 👋 About Me:
-<br>Hello! I'm Manoj Prabhakaran, a Cyber Security Manager with a dedication to strengthening digital security. I’m the founder of Underwings Technology, a cybersecurity firm focused on protecting businesses from cyber threats, and Zeroth Squad, a Capture the Flag (CTF) team committed to advancing cybersecurity skills through competition.<br><br>🔐 Cybersecurity Professional & Manager<br>Currently working as a Cyber Security Manager, I bring a strategic approach to securing organizations against cyber threats. My expertise includes security strategy development, risk management, incident response, and guiding teams in implementing robust defenses across complex infrastructures.<br><br>🚀 Founder @ Underwings Technology<br>As the founder of Underwings Technology, I lead a team focused on delivering comprehensive cybersecurity solutions. We provide services such as penetration testing, security audits, and risk assessments to help businesses enhance their security posture and stay resilient in the face of emerging threats.<br><br>🕹️ CTF Player & Zeroth Squad Founder<br>I also founded Zeroth Squad, a CTF team where I compete with others passionate about cybersecurity. Engaging in Capture the Flag competitions helps me stay sharp and connect with the security community while developing hands-on skills to tackle real-world security challenges.<br><br>🎯 My Goal<br>My mission is to contribute to a safer digital world, continuously learn, and collaborate with others who are just as passionate about cybersecurity.
+Hello! I'm **Manoj Prabhakaran**, a **Cyber Security Manager** dedicated to protecting digital spaces. I’m the founder of **Underwings Technology**, a cybersecurity firm focused on safeguarding businesses, and **Zeroth Squad**, a Capture the Flag (CTF) team committed to advancing cybersecurity skills through competition.
+
+---
+
+### 🔐 Cybersecurity Professional & Manager  
+As a Cyber Security Manager, I specialize in security strategy, risk management, and incident response, leading teams to implement strong defenses across complex systems.
+
+### 🚀 Founder @ Underwings Technology  
+At Underwings, we deliver tailored cybersecurity solutions, including penetration testing, security audits, and risk assessments, helping businesses stay resilient against emerging threats.
+
+### 🕹️ CTF Player & Zeroth Squad Founder  
+Through Zeroth Squad, I engage in CTF competitions, honing my skills and collaborating with the cybersecurity community.
+
 
 
 ## 🌐 Socials:

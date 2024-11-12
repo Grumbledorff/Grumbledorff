@@ -41,9 +41,11 @@ Through Zeroth Squad, I engage in CTF competitions, honing my skills and collabo
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grumbledorff&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grumbledorff&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="19-PM-unscreen.gif" alt="hacked gif" />
     </td>
   </tr>
 </table>

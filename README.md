@@ -11,9 +11,6 @@ Hello! I'm **Manoj Prabhakaran**, a **Security Manager** dedicated to protecting
 #### 🔐 Cybersecurity Professional & Manager  
 As a Cyber Security Manager, I specialize in security strategy, risk management, and incident response, leading teams to implement strong defenses across complex systems.
 
-#### 🚀 Founder @ Underwings Technology  
-At Underwings, we deliver tailored cybersecurity solutions, including penetration testing, security audits, and risk assessments, helping businesses stay resilient against emerging threats.
-
 #### 🕹️ CTF Player & Zeroth Squad Founder  
 Through Zeroth Squad, I engage in CTF competitions, honing my skills and collaborating with the cybersecurity community.
 

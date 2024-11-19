@@ -6,12 +6,6 @@
 💻 **Cybersecurity Professional | Tech Support Engineer | CTF Player**
 
 Welcome to my GitHub! I am passionate about all things **cybersecurity**. My goal is to protect digital landscapes and empower businesses with secure solutions.
----
-## 🌟 About Me
-- 🔒 Currently sharpening my skills in **SOC analysis** and **penetration testing**.
-- 🧩 Active participant in **Hack The Box** and **Capture The Flag** competitions.
-- 🛠️ Experienced in finding and resolving vulnerabilities like **IDOR** and **XSS** in web applications.
----
 ## 🛠 Skills & Tools
 - **Cybersecurity**: SOC Analysis, Vulnerability Assessment, Penetration Testing  
 - **Programming & Tools**: Python, Linux, Bash, Nginx  

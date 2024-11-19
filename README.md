@@ -3,7 +3,7 @@
     <td style="width: 60%; vertical-align: top;">
 
 # 👋 Hi there! I'm Manoj Prabhakaran (Grumbledorf) 🚀  
-💻 **Cybersecurity Professional | Tech Support Engineer | CTF Player**
+💻 **Cybersecurity Professional | CTF Player**
 
 Welcome to my GitHub! I am passionate about all things **cybersecurity**. My goal is to protect digital landscapes and empower businesses with secure solutions.
 ## 🛠 Skills & Tools

@@ -2,12 +2,6 @@
   <tr>
     <td style="width: 60%; vertical-align: top;">
 
-### 👋 About Me
-
-Hello! I'm **Manoj Prabhakaran**, a **Security Manager** dedicated to protecting digital spaces. I’m the founder of **Underwings Technology**, a cybersecurity firm focused on safeguarding businesses, and **Zeroth Squad**, a Capture the Flag (CTF) team committed to advancing cybersecurity skills through competition.
-
----
-
 #### 🔐 Cybersecurity Professional & Manager  
 As a Cyber Security Manager, I specialize in security strategy, risk management, and incident response, leading teams to implement strong defenses across complex systems.
 

@@ -12,7 +12,7 @@ Welcome to my GitHub! I am passionate about all things **cybersecurity**. My goa
 - **Platforms**: Hack The Box, CTFs  
 ---
 #### 🕹️ CTF Player & Zeroth Squad Founder  
-Through Zeroth Squad, I engage in CTF competitions, honing my skills and collaborating with the cybersecurity community.
+- Through Zeroth Squad, I engage in CTF competitions, honing my skills and collaborating with the cybersecurity community.
 ---
 ✨ Let’s build a safer digital world together! 🌍
   </td>

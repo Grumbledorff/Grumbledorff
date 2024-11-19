@@ -6,28 +6,21 @@
 💻 **Cybersecurity Professional | Tech Support Engineer | CTF Player**
 
 Welcome to my GitHub! I am passionate about all things **cybersecurity**. My goal is to protect digital landscapes and empower businesses with secure solutions.
-
 ---
-
 ## 🌟 About Me
 - 🔒 Currently sharpening my skills in **SOC analysis** and **penetration testing**.
 - 🧩 Active participant in **Hack The Box** and **Capture The Flag** competitions.
 - 🛠️ Experienced in finding and resolving vulnerabilities like **IDOR** and **XSS** in web applications.
 ---
-
 ## 🛠 Skills & Tools
 - **Cybersecurity**: SOC Analysis, Vulnerability Assessment, Penetration Testing  
 - **Programming & Tools**: Python, Linux, Bash, Nginx  
 - **Platforms**: Hack The Box, CTFs  
 ---
-
----
 #### 🕹️ CTF Player & Zeroth Squad Founder  
 Through Zeroth Squad, I engage in CTF competitions, honing my skills and collaborating with the cybersecurity community.
 ---
-
 ✨ Let’s build a safer digital world together! 🌍
-
   </td>
   <td style="width: 40%; text-align: center; vertical-align: top;">
     <img src="dedsec-watch-dogs2.gif" alt="Hacking GIF" width="300"/>

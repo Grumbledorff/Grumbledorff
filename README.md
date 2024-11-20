@@ -2,10 +2,18 @@
   <tr>
     <td style="width: 60%; vertical-align: top;">
 
-# 👋 Hi there! I'm Manoj Prabhakaran (Grumbledorf) 🚀  
-💻 **Cybersecurity Professional | CTF Player**
 
-Welcome to my GitHub! I am passionate about all things **cybersecurity**. My goal is to protect digital landscapes and empower businesses with secure solutions.
+markdown
+Copy code
+# 👋 Hi there! I'm **Manoj Prabhakaran (Grumbledorf)** 🚀  
+💻 **Cybersecurity Professional | CTF Player | Zeroth Squad Founder**
+
+Welcome to my GitHub! I specialize in securing digital infrastructures and have helped **15+ companies** with:  
+- **SOC implementation**, **VAPT**, and **Network Security**.  
+- **Digital Forensics** and end-to-end cybersecurity solutions.
+
+As the founder of **Zeroth Squad**, I actively participate in **CTF competitions**, collaborating with the cybersecurity community to solve challenges and share knowledge.
+
 ---
 #### 🕹️ CTF Player & Zeroth Squad Founder  
 - Through Zeroth Squad, I engage in CTF competitions, honing my skills and collaborating with the cybersecurity community.

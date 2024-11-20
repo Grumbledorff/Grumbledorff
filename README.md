@@ -6,7 +6,7 @@
 markdown
 Copy code
 # 👋 Hi there! I'm **Manoj Prabhakaran (Grumbledorf)** 🚀  
-💻 **Cybersecurity Professional | CTF Player | Zeroth Squad Founder**
+💻 **Cybersecurity Manager | CTF Player | Zeroth Squad Founder**
 
 Welcome to my GitHub! I specialize in securing digital infrastructures and have helped **15+ companies** with:  
 - **SOC implementation**, **VAPT**, and **Network Security**.  

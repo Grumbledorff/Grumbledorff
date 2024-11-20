@@ -11,10 +11,14 @@ Copy code
 Welcome to my GitHub! I specialize in securing digital infrastructures and have helped **15+ companies** with:  
 - **SOC implementation**, **VAPT**, and **Network Security**.  
 - **Digital Forensics** and end-to-end cybersecurity solutions.
-
 ---
 #### 🕹️ CTF Player & Zeroth Squad Founder  
 - Through Zeroth Squad, I engage in CTF competitions, honing my skills and collaborating with the cybersecurity community.
+---
+## 🕹️ **Current Goals**  
+- Successfully submitted **6 bug reports** so far, aiming for **100 by 2025**.  
+- Lead **Zeroth Squad** to the **top of the CTFtime scoreboard**.  
+- Follow our journey: [Zeroth Squad Progress](https://zerothsquad.com).  
 ---
 ✨ Let’s build a safer digital world together! 🌍
   </td>

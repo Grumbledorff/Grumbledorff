@@ -6,10 +6,6 @@
 💻 **Cybersecurity Professional | CTF Player**
 
 Welcome to my GitHub! I am passionate about all things **cybersecurity**. My goal is to protect digital landscapes and empower businesses with secure solutions.
-## 🛠 Skills & Tools
-- **Cybersecurity**: SOC Analysis, Vulnerability Assessment, Penetration Testing  
-- **Programming & Tools**: Python, Linux, Bash, Nginx  
-- **Platforms**: Hack The Box, CTFs  
 ---
 #### 🕹️ CTF Player & Zeroth Squad Founder  
 - Through Zeroth Squad, I engage in CTF competitions, honing my skills and collaborating with the cybersecurity community.

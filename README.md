@@ -9,7 +9,7 @@ Copy code
 💻 **Cybersecurity Manager | CTF Player | Zeroth Squad Founder**
 
 Welcome to my GitHub! I specialize in securing digital infrastructures and have helped **15+ companies** with:  
-- **SOC implementation**, **VAPT**, and **Network Security**.  
+- **SOC Implementation**, **VAPT**, and **Network Security**.  
 - **Digital Forensics** and end-to-end cybersecurity solutions.
 ---
 #### 🕹️ CTF Player | Zeroth Squad Founder | Current Goals

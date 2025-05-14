@@ -1,7 +1,6 @@
 <table>
   <tr>
     <td style="width: 60%; vertical-align: top;">
-
 # 👋 Hi there! I'm **Manoj Prabhakaran (Grumbledorf)** 🚀  
 💻 **Cybersecurity Manager | CTF Player | Zeroth Squad Founder**
 
